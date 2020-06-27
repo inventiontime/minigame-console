@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d42af82875faebe44b76f044637841fc, type: 3}
+  m_Name: Game Manager
+  m_EditorClassIdentifier: 
+  EnemySpeed: 5
+  BulletSpeed: 20
+  SpawnSpeed: 2.75
+  secondaryEnemySpwanChancePercentage: 0
+  maxHealth: 4
+  health: -2
+  inputLayout: 0
+  score: 375
+  scores: {fileID: 11400000, guid: 1446cc7329e3ff94c8df48144a25cadf, type: 2}
